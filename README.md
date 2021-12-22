@@ -7,3 +7,6 @@ also install the following packages-
 1-puppeteer (npm install puppeteer)
 2-cheerio (npm install cheerio)
 3-request (npm install request)
+
+
+the output is logged(i.e, the console.log())
