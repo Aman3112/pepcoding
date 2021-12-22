@@ -9,4 +9,4 @@ also install the following packages-
 3-request (npm install request)
 
 
-the output is logged(i.e, the console.log())
+the output is logged(i.e. console.log())
